@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SingleChoice Dialog Java</string>
+
+    <string-array name="choice_items">
+        <item>Pakistan</item>
+        <item>India</item>
+        <item>China</item>
+        <item>Bangladesh</item>
+        <item>Singapore</item>
+        <item>Indonesia</item>
+    </string-array>
+
+</resources>
